@@ -8,12 +8,13 @@
   <br/><br/>
 
   <!-- Self-Hosted Native Banner -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="580" alt="Faal Jundy Banner" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="580" alt="itspallyourfren Banner" />
 
   <br/><br/>
 
   <p align="center">
     <i>何とかなれッ! — Nantoka Nare!</i><br/>
+    <b>Hidup dibikin santai aja, jangan kebanyakan overthinking.</b>
   </p>
 
   <!-- Trio Animated Showcase -->
@@ -122,6 +123,38 @@
                *. ...... .*# #            
                  .#    **                 
 ```
+
+---
+
+### Tentang Gua
+
+```yaml
+profil:
+  username: "@itspallyourfren"
+  kegiatan: "Mahasiswa psikologi"
+  minat: "Perilaku manusia, dengerin musik, ngopi, iseng eksplor tech / bikin hal lucu"
+  karakter_favorit: "Hachiware si kucing biru"
+  motto: "Nantoka nare! Yang penting jalan terus"
+```
+
+---
+
+### Find Me
+
+<div align="center">
+
+  <p>
+    <a href="https://instagram.com/itspallyourfren" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-itspallyourfren-5B9BD5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/itspallyourfren" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-itspallyourfren-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
+
 ---
 
 <div align="center">
