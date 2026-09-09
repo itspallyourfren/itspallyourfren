@@ -148,8 +148,8 @@ profil:
       <img src="https://img.shields.io/badge/Instagram-itspallyourfren-5B9BD5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/itspallyourfren" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-itspallyourfren-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/ahmadfathialjundy/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
