@@ -7,47 +7,48 @@
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Banner (Hachiware Blue Theme, No Emojis) -->
+  <!-- Dynamic Typing SVG Banner (Casual & Fun, Hachiware Blue Theme) -->
   <a href="https://github.com/itspallyourfren">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=5B9BD5&center=true&vCenter=true&width=560&lines=Hi+there,+I'm+Faal+(@itspallyourfren);Psychology+Student+%26+Human+Behavior+Observer;Hachiware+Devotee:+%E4%BD%95%E3%81%A8%E3%81%8B%E3%81%AA%E3%82%8C%E3%83%83!+(Nantoka+Nare!);Exploring+Tech,+Creative+Tools+%26+AI+for+Fun;Full+Green+Streak+%26+Spreading+Good+Vibes" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B9BD5&center=true&vCenter=true&width=580&lines=halo+semua,+gua+faal+(@itspallyourfren)!;anak+psikologi+yang+nyasar+suka+ngoding+iseng;hachiware+garis+keras:+NANTOKA+NARE-ッ!;kalo+pusing+teriak+aja:+URRRAAA!!+UNAAAA!!;streak+github+full+ijo+biar+hati+tenang" alt="Typing Banner" />
   </a>
 
   <p align="center">
-    <i>何とかなれッ! — (Nantoka Nare!)</i><br/>
-    <b>A curious psychology student finding beauty in human minds, happy vibes, and creative coding.</b>
+    <i>何とかなれッ! — (Nantoka Nare-ッ!!)</i><br/>
+    <b>Santai dulu gak sih? Hidup udah ribet, mending ngoding for fun sambil ketawa bareng trio chiikawa!</b>
   </p>
 
   <!-- Clean Minimalist Blue Badges (No Emojis) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/PERSONA-HACHIWARE_BLUE-5B9BD5?style=flat-square" />
-    <img src="https://img.shields.io/badge/FIELD-PSYCHOLOGY-89cff0?style=flat-square" />
-    <img src="https://img.shields.io/badge/STREAK-100%25_GREEN-a3e635?style=flat-square" />
-    <img src="https://img.shields.io/badge/VIBE-HAPPY_%26_CURIOUS-38bdf8?style=flat-square" />
+    <img src="https://img.shields.io/badge/PERSONA-HACHIWARE_BIRU-5B9BD5?style=flat-square" />
+    <img src="https://img.shields.io/badge/JURUSAN-ANAK_PSIKOLOGI-89cff0?style=flat-square" />
+    <img src="https://img.shields.io/badge/STREAK-IJO_ROYO_ROYO-a3e635?style=flat-square" />
+    <img src="https://img.shields.io/badge/MODE-UNAAAA!!-38bdf8?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### Copypasta & Text Art Corner
+### Copypasta & Text Art Room
 
 ```text
        /\_/\                                        (\_/)
-      ( •̀.• )   何とかなれーッ!!                     ( •.• )   わァ…… 泣いちゃった...
-     c(   c )   (NANTOKA NARE!)                    c(   c )   (Wah... yaa...)
-       w w                                           w w
+      ( •̀.• )   NANTOKA NAREEE-ッ!!                 ( •.• )   waaa... yaaa...
+     c(   c )   "Tenang bro, sans aja dulu,        c(   c )   "Nangis bentar ya cuy,
+       w w      semua masalah pasti kelar!"          w w      abis itu gaspol lagi..."
    [ HACHIWARE ]                                 [ CHIIKAWA ]
-   The Blue Soul & Persona                       The Gentle Heart
-   "Tenang aja, semua overthinking               "Nangis dulu gapapa, semua emosi
-   dan masalah pasti bisa diatasi!"              itu wajar dan valid untuk dirasakan."
+   Si Paling Optimis                             Si Paling Gampang Kaget
+   Persona utama gua: bawa hepi                  Takut dikit gak ngaruh,
+   dan selalu yakin ada jalan keluar!            yang penting tetep maju pelan-pelan.
 
                            (\__/)
-                           ( •o• )   YAHA!! URRRAAA!!
-                          c(   c )   (Pure Spontaneous Energy)
+                           ( •o• )   URRRAAA!! YAHA!! UNAAAA!!
+                          c(   c )   (teriak hepi tanpa beban hidup)
                              w w
                          [ USAGI ]
-                         The Dopamine Booster
-                         "Lepaskan overthinking, gaspol tanpa ragu!"
+                         Duta Anti Overthinking
+                         Obat stres instan: gak usah kebanyakan mikir,
+                         teriak UNAAA terus trabas aja!
 ```
 
 ```text
@@ -72,58 +73,57 @@
                #*...     ....*#   ###         
                    #. *  #                    
                     #* **                     
-            [ (՞ ̫ ՞) HACHIWARE BLUE ]
+       [ (՞ ̫ ՞) HACHIWARE SI KUCING BIRU ]
 ```
 
 ---
 
-### About Me
+### Kenalan Dikit Lah Ya
 
 ```yaml
-student:
-  name: "Faal Jundy"
+biodata_santai:
+  nama: "Faal Jundy"
   handle: "@itspallyourfren"
-  major: "Psychology (Psikologi)"
-  interests:
-    - "Human Behavior & Cognitive Psychology"
-    - "Emotional Resilience & Well-being"
-    - "Human-AI Interaction & Creative Exploration"
-    - "Coffee, Lo-fi music, and reading notes"
-  tech_hobby: "Automating fun stuff, data curiosity, & daily GitHub streak"
-  life_motto: "Nantoka Nare! (Everything has a way of working out)"
+  spesies: "Anak psikologi yang suka penasaran sama tech & AI"
+  sumber_energi: "Kopi, playlist santai, sama nonton tingkah absurd usagi"
+  keseharian:
+    - "Belajar perilaku manusia dan cara kerja otak"
+    - "Oprek-oprek kodingan iseng buat bikin hal lucu"
+    - "Menjaga kotak github tetep full ijo tiap hari biar estetik"
+  prinsip_hidup: "Nantoka nare! Kalo buntu ya rebahan dulu, jangan dipaksain"
 ```
 
 ---
 
-### The Trio Squad (Psychology Edition)
+### Trio Penghibur Pas Nugas
 
 <div align="center">
 
-| Character | Role & Psychology Archetype | Mascot Quote |
+| Karakter | Vibe & Peran di Hidup Gua | Celoteh Andalan |
 | :---: | :--- | :---: |
-| <img src="assets/hachiware_jump.gif" width="85" /><br/><b>Hachiware (Blue)</b><br/><i>Persona Utama</i> | <b>Positive Psychology & Resilience</b><br/>Paling suportif, gemar membaca dan belajar, selalu membangkitkan semangat saat keadaan sedang berat. | <i>"Nantoka Nare!"</i> |
-| <img src="assets/chiikawa_jump.gif" width="85" /><br/><b>Chiikawa</b><br/><i>Sahabat Setia</i> | <b>Empathy & Vulnerability</b><br/>Mengingatkan kita bahwa merasa takut dan sensitif itu manusiawi. Tetap berusaha sekuat tenaga walau perlahan. | <i>"Wah... yaa..."</i> |
-| <img src="assets/usagi_jump.gif" width="85" /><br/><b>Usagi</b><br/><i>Mood Maker</i> | <b>Spontaneous Dopamine & Freedom</b><br/>Sosok tanpa filter yang hidup di momen sekarang. Obat mujarab untuk mengatasi kecemasan dan overthinking! | <i>"Yaha! Uraaa!"</i> |
+| <img src="assets/hachiware_jump.gif" width="85" /><br/><b>Hachiware (Biru)</b><br/><i>Persona Utama</i> | <b>Temen Nyemangatin</b><br/>Paling suportif dan penasaran sama hal baru. Kalo gua lagi overthinking nugas, hachiware yang ingetin buat narik napas dan bilang semuanya bakal baik-baik aja. | <i>"Nantoka Nare-ッ!"</i> |
+| <img src="assets/chiikawa_jump.gif" width="85" /><br/><b>Chiikawa</b><br/><i>Temen Senasib</i> | <b>Representasi Gua Pas Ujian</b><br/>Gampang panik, pemalu, suka gemeteran, tapi tetep ngerjain tugas sampe kelar. Valid banget sih emosinya! | <i>"Wah... yaa..."</i> |
+| <img src="assets/usagi_jump.gif" width="85" /><br/><b>Usagi</b><br/><i>Booster Dopamin</i> | <b>Energi Jam 2 Pagi</b><br/>Gak kenal kata overthinking. Hidup tanpa beban, tinggal teriak unnaa yahaa urraaa semua beban dunia serasa hilang. | <i>"URRRAAA!! UNAAAA!!"</i> |
 
 </div>
 
 ---
 
-### Creative Tools & Tech for Fun
+### Mainan & Tools Iseng
 
 <div align="center">
 
-| Area | Tools & Platforms |
+| Kategori | Yang Suka Dioprek |
 | :--- | :--- |
-| **Learning & Research** | <img src="https://img.shields.io/badge/Python-Data_Exploration-5B9BD5?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-Research_Notes-89CFF0?style=flat-square&logo=markdown&logoColor=white" /> |
-| **Creative Code** | <img src="https://img.shields.io/badge/HTML5-Web_Experiments-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-Cute_Styling-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Interactive_Fun-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
-| **Workflow** | <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-Profile_Space-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-Streak_Automator-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-Editor_of_Choice-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+| **Buat Iseng / Belajar** | <img src="https://img.shields.io/badge/Python-Buat_Analisis_Iseng-5B9BD5?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-Catatan_Kuliah-89CFF0?style=flat-square&logo=markdown&logoColor=white" /> |
+| **Kodingan Santai** | <img src="https://img.shields.io/badge/HTML5-Bikin_Web_Unyu-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-Biar_Rapi_Aja-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Biar_Gerak-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **Tempat Nongkrong** | <img src="https://img.shields.io/badge/GitHub-Tempat_Pamer_Streak-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-Bot_Otomatis_Ijo-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-Tempat_Ngetik-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
 
 </div>
 
 ---
 
-### Activity & Streak Telemetry
+### Status Kehijauan & Telemetry
 
 <div align="center">
 
@@ -137,13 +137,13 @@ student:
 <div align="center">
 
   <!-- Trio Running Together Animated Footer -->
-  <img src="assets/hachiware_run.gif" width="70" alt="Hachiware" />
-  <img src="assets/chiikawa_run.gif" width="70" alt="Chiikawa" />
-  <img src="assets/usagi_run.gif" width="70" alt="Usagi" />
+  <img src="assets/hachiware_run.gif" width="75" alt="Hachiware" />
+  <img src="assets/chiikawa_run.gif" width="75" alt="Chiikawa" />
+  <img src="assets/usagi_run.gif" width="75" alt="Usagi" />
 
   <br/><br/>
-  <i>"Small daily steps and a kind heart create wonderful journeys."</i><br/>
-  <b>Senang bertemu denganmu! Mari saling berbagi energi positif dan berteman baik.</b><br/><br/>
+  <b>Udah kelar keponya? Makasih banyak ya udah mampir!</b><br/>
+  <i>Kalo lagi mumet nugas atau overthinking, jangan lupa teriak: <b>UNAAAA!! YAHA!!</b></i><br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5B9BD5&height=65&section=footer" width="100%" />
 
