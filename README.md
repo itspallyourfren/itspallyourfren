@@ -1,16 +1,18 @@
 <div align="center">
 
-  <!-- Header Animated Hachiware & Friends -->
+  <!-- Header Animated Trio -->
   <a href="https://github.com/itspallyourfren">
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_wave.gif" width="115" alt="Hachiware Wave" />
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="115" alt="Usagi Roll" />
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="115" alt="Chiikawa Jump" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_dance.gif" width="110" alt="Hachiware Dance" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="110" alt="Usagi Roll" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_flower.gif" width="110" alt="Chiikawa Flower" />
   </a>
 
   <br/><br/>
 
-  <!-- Self-Hosted Animated Banner -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="620" alt="@itspallyourfren Banner" />
+  <!-- Pastel Sky Banner (Washi Tape & Stickers) -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="640" alt="@itspallyourfren Banner" />
 
   <br/><br/>
 
@@ -21,44 +23,54 @@
 
   <!-- Running Trio Gang -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="72" alt="Hachiware Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="70" alt="Hachiware Run" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="72" alt="Chiikawa Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="70" alt="Chiikawa Run" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="72" alt="Usagi Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="70" alt="Usagi Run" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="72" alt="Usagi Jump" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
   </p>
 
 </div>
 
 ---
 
+### 🎨 Tempel-Tempelan &amp; Sticker Corner
+
 <div align="center">
 
-  <!-- Chiikawa Universe Dialogue Box -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_dialog.svg" width="620" alt="Chiikawa Universe Dialogue" />
+  <!-- Interactive Sticker Row -->
+  <p>
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_cute.gif" width="95" alt="Hachiware Sticker" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_eating.gif" width="95" alt="Chiikawa Makan" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_dance.gif" width="95" alt="Usagi Dance" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/trio_cheer.gif" width="95" alt="Trio Cheer" />
+  </p>
+
+  <br/>
+
+  <!-- Scrapbook Memo (Washi Tape & Hanko Stamp) -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/scrapbook_memo.svg" width="640" alt="Scrapbook Memo" />
 
   <br/><br/>
 
-  <!-- Retro Lo-Fi Player -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_player.svg" width="620" alt="Hachiware Lo-Fi Player" />
+  <!-- Retro Pastel Lo-Fi Cassette Tape (Animated Spinning Reels) -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/lofi_tape.svg" width="640" alt="Lo-Fi Cassette Tape" />
 
   <br/><br/>
 
-  <!-- Psychology & Mind Telemetry HUD -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/psyche_telemetry.svg" width="620" alt="Psychology Telemetry HUD" />
-
-  <br/><br/>
-
-  <!-- Chiikawa Guild Card & Daily Quests -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_quest.svg" width="620" alt="Chiikawa Guild Card" />
+  <!-- Chiikawa Weeding License Grade 5 -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/weeding_cert.svg" width="640" alt="Weeding License Grade 5" />
 
 </div>
 
 ---
 
-### ASCII & Copypasta Corner
+### 💬 ASCII &amp; Copypasta Corner
 
 ```text
        /\_/\                                        (\_/)
@@ -170,13 +182,13 @@
 <div align="center">
 
   <!-- Trio Animated Footer -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="75" alt="Hachiware Jump" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="75" alt="Chiikawa Jump" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="75" alt="Usagi Jump" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="75" alt="Usagi Roll" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="70" alt="Hachiware Jump" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="70" alt="Chiikawa Jump" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="70" alt="Usagi Roll" />
 
   <br/><br/>
 
@@ -184,6 +196,6 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B9BD5&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=93C5FD&height=60&section=footer" width="100%" />
 
 </div>

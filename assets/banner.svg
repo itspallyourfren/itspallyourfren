@@ -1,75 +1,47 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 115" width="640" height="115">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 125" width="640" height="125">
   <defs>
-    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090D16" />
-      <stop offset="50%" stop-color="#0F172A" />
-      <stop offset="100%" stop-color="#111827" />
+    <linearGradient id="pastelSky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0F2FE" />
+      <stop offset="50%" stop-color="#F0F9FF" />
+      <stop offset="100%" stop-color="#EFF6FF" />
     </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="50%" stop-color="#818CF8" />
-      <stop offset="100%" stop-color="#C084FC" />
-    </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="50%" stop-color="#818CF8" />
-      <stop offset="100%" stop-color="#38BDF8" />
+    <linearGradient id="tapeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#BFDBFE" stop-opacity="0.8" />
     </linearGradient>
     <style>
-      .banner-title {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-        font-size: 26px;
-        font-weight: 800;
-        fill: url(#titleGrad);
-        letter-spacing: 1.2px;
-      }
-      .banner-sub {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        font-size: 13px;
-        font-weight: 500;
-        fill: #94A3B8;
-        letter-spacing: 0.5px;
-      }
-      .banner-tag {
-        font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
-        font-size: 11px;
-        font-weight: 700;
-        fill: #38BDF8;
-        letter-spacing: 1px;
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.2; transform: scale(0.8); }
-        50% { opacity: 1; transform: scale(1.2); }
-      }
-      @keyframes borderPulse {
-        0%, 100% { stroke: #38BDF8; }
-        50% { stroke: #818CF8; }
-      }
-      .star-1 { animation: twinkle 2.2s infinite ease-in-out; transform-origin: 45px 30px; }
-      .star-2 { animation: twinkle 3.1s infinite ease-in-out 0.7s; transform-origin: 595px 35px; }
-      .star-3 { animation: twinkle 2.6s infinite ease-in-out 1.3s; transform-origin: 575px 85px; }
-      .star-4 { animation: twinkle 2.8s infinite ease-in-out 0.4s; transform-origin: 65px 85px; }
-      .card-border { animation: borderPulse 4s infinite ease-in-out; }
+      .b-title { font-family: 'Comfortaa', 'Quicksand', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 800; fill: #1E3A8A; letter-spacing: 0.5px; }
+      .b-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #3B82F6; }
+      .b-tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace; font-size: 11px; font-weight: 700; fill: #60A5FA; letter-spacing: 1.5px; }
+      @keyframes floatSoft { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-3px); } }
+      .float-badge { animation: floatSoft 3s infinite ease-in-out; }
     </style>
   </defs>
 
-  <!-- Background Card -->
-  <rect width="640" height="115" rx="18" fill="url(#bannerBg)" class="card-border" stroke="#38BDF8" stroke-width="1.8" />
+  <!-- Cute Sticker Background with Soft Rounded Corners -->
+  <rect x="6" y="10" width="628" height="105" rx="22" fill="url(#pastelSky)" stroke="#93C5FD" stroke-width="2.5" />
 
-  <!-- Twinkling Sparkles -->
-  <g fill="#FDE047">
-    <!-- Star 1 -->
-    <path class="star-1" d="M45 22 L47 28 L53 30 L47 32 L45 38 L43 32 L37 30 L43 28 Z" />
-    <!-- Star 2 -->
-    <path class="star-2" d="M595 27 L597 33 L603 35 L597 37 L595 43 L593 37 L587 35 L593 33 Z" />
-    <!-- Star 3 -->
-    <path class="star-3" d="M575 79 L576.5 83.5 L581 85 L576.5 86.5 L575 91 L573.5 86.5 L569 85 L573.5 83.5 Z" />
-    <!-- Star 4 -->
-    <path class="star-4" d="M65 79 L66.5 83.5 L71 85 L66.5 86.5 L65 91 L63.5 86.5 L59 85 L63.5 83.5 Z" />
+  <!-- Washi Tape on Top Corners -->
+  <rect x="35" y="4" width="70" height="15" rx="3" fill="url(#tapeGrad)" transform="rotate(-3 70 10)" />
+  <rect x="535" y="4" width="70" height="15" rx="3" fill="url(#tapeGrad)" transform="rotate(3 570 10)" />
+
+  <!-- Decorative Cute Stars / Sparkles -->
+  <g fill="#FBBF24">
+    <path d="M 45 65 Q 48 55 58 52 Q 48 49 45 39 Q 42 49 32 52 Q 42 55 45 65 Z" />
+    <path d="M 595 72 Q 597 64 605 62 Q 597 60 595 52 Q 593 60 585 62 Q 593 64 595 72 Z" />
+    <circle cx="95" cy="85" r="3" fill="#60A5FA" />
+    <circle cx="545" cy="42" r="3" fill="#F472B6" />
+    <circle cx="560" cy="85" r="2.5" fill="#38BDF8" />
   </g>
 
-  <!-- Content -->
-  <text x="320" y="34" text-anchor="middle" class="banner-tag">✦ &lt; HACHIWARE BLUE UNIVERSE &gt; ✦</text>
-  <text x="320" y="68" text-anchor="middle" class="banner-title">@itspallyourfren</text>
-  <text x="320" y="95" text-anchor="middle" class="banner-sub">Psychology Student · Human Mind &amp; Behavior · 何とかなれッ!</text>
+  <!-- Clouds -->
+  <path d="M 120 42 C 120 37 125 33 130 33 C 133 29 139 27 145 28 C 151 28 156 31 158 35 C 163 35 167 39 167 44 C 167 49 162 52 157 52 L 128 52 C 123 52 120 48 120 42 Z" fill="#FFFFFF" opacity="0.85" />
+  <path d="M 470 78 C 470 73 475 69 480 69 C 483 65 489 63 495 64 C 501 64 506 67 508 71 C 513 71 517 75 517 80 C 517 85 512 88 507 88 L 478 88 C 473 88 470 84 470 78 Z" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Text Header -->
+  <g class="float-badge">
+    <text x="320" y="42" text-anchor="middle" class="b-tag">✦ CHIIKAWA &amp; HACHIWARE UNIVERSE ✦</text>
+    <text x="320" y="75" text-anchor="middle" class="b-title">@itspallyourfren</text>
+    <text x="320" y="99" text-anchor="middle" class="b-sub">Psychology Student · Human Behavior &amp; Mind · 何とかなれッ! 🌸</text>
+  </g>
 </svg>

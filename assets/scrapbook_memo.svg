@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 185" width="640" height="185">
+  <defs>
+    <linearGradient id="memoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFDF9" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <linearGradient id="tapeYellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FEF08A" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#FDE047" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="tapeBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#BAE6FD" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0.85" />
+    </linearGradient>
+    <style>
+      .m-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 800; fill: #1E3A8A; }
+      .m-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12.5px; font-weight: 600; fill: #334155; }
+      .m-jp { font-family: 'Hiragino Maru Gothic ProN', 'Meiryo', sans-serif; font-size: 12px; font-weight: 700; fill: #E11D48; }
+      .hanko-border { stroke: #E11D48; stroke-width: 2; fill: #FFF1F2; }
+    </style>
+  </defs>
+
+  <!-- Memo Paper Background with Soft Dotted / Stitch Border -->
+  <rect x="8" y="10" width="624" height="165" rx="18" fill="url(#memoBg)" stroke="#CBD5E1" stroke-width="1.8" />
+  <rect x="15" y="17" width="610" height="151" rx="12" fill="none" stroke="#E2E8F0" stroke-width="1.5" stroke-dasharray="6,4" />
+
+  <!-- Cute Washi Tape at Top -->
+  <rect x="250" y="4" width="140" height="16" rx="3" fill="url(#tapeYellow)" />
+
+  <!-- Left Memo Note: Psychology & Mind Daily Checklist -->
+  <g transform="translate(28, 28)">
+    <text x="0" y="15" class="m-title">📝 Catatan Santai &amp; Mind Observatory</text>
+    
+    <text x="0" y="42" class="m-text">🌸 <tspan font-weight="700">Mood:</tspan> Santai aja, hidup jangan kebanyakan overthinking!</text>
+    <text x="0" y="68" class="m-text">☕ <tspan font-weight="700">Aktivitas:</tspan> Kuliah Psikologi, ngamatin manusia &amp; dengerin lagu</text>
+    <text x="0" y="94" class="m-text">⚡ <tspan font-weight="700">Kalo Buntu:</tspan> Tarik napas, bilang "Nantoka nare!", teriak "UNAAA!"</text>
+    <text x="0" y="120" class="m-text">💙 <tspan font-weight="700">Karakter Favorit:</tspan> Hachiware si kucing biru yang selalu optimis</text>
+  </g>
+
+  <!-- Right Stamp Badge: Hanko Japanese Well Done Stamp -->
+  <g transform="translate(485, 38)">
+    <!-- Washi tape on stamp -->
+    <rect x="15" y="-14" width="65" height="12" rx="2" fill="url(#tapeBlue)" transform="rotate(-5 45 -8)" />
+    
+    <!-- Hanko Double Circle -->
+    <circle cx="50" cy="50" r="42" class="hanko-border" />
+    <circle cx="50" cy="50" r="36" fill="none" stroke="#E11D48" stroke-width="1.2" />
+    
+    <text x="50" y="42" text-anchor="middle" class="m-jp">たいへん</text>
+    <text x="50" y="58" text-anchor="middle" class="m-jp">よくできました</text>
+    <text x="50" y="72" text-anchor="middle" font-size="10" font-weight="700" fill="#E11D48">💮 100% 💮</text>
+  </g>
+</svg>
