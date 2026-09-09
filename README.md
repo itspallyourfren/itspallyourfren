@@ -1,26 +1,34 @@
 <div align="center">
 
-  <!-- Hachiware Header Animation -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_wave.gif" width="130" alt="Hachiware Wave" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="130" alt="Hachiware Jump" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="130" alt="Hachiware Run" />
+  <!-- Header Animated Hachiware & Friends -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_wave.gif" width="125" alt="Hachiware Wave" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="125" alt="Hachiware Jump" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="125" alt="Usagi Roll" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing Banner (Blue Hachiware Theme) -->
-  <a href="https://github.com/itspallyourfren">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B9BD5&center=true&vCenter=true&width=550&lines=halo,+gua+faal+(@itspallyourfren);kuliah+psikologi+aja+sih+aslinya;suka+banget+sama+hachiware+dan+chiikawa;何とかなれッ!+(nantoka+nare!);santai+aja,+semua+pasti+ada+jalannya" alt="Typing Banner" />
-  </a>
+  <!-- Self-Hosted Native Banner -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="580" alt="Faal Jundy Banner" />
+
+  <br/><br/>
 
   <p align="center">
     <i>何とかなれッ! — Nantoka Nare!</i><br/>
+  </p>
+
+  <!-- Trio Animated Showcase -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="70" alt="Hachiware Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="70" alt="Chiikawa Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="70" alt="Usagi Run" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
   </p>
 
 </div>
 
 ---
 
-### ASCII & Copypasta
+### ASCII & Copypasta Corner
 
 ```text
        /\_/\                                        (\_/)
@@ -31,9 +39,20 @@
 
                            (\__/)
                            ( •o• )   URRRAAA!! YAHA!! UNAAAA!!
-                          c(   c )   
+                          c(   c )   (spontaneous rolling mode)
                              w w
                          [ USAGI ]
+```
+
+```text
++-------------------------------------------------------------------------+
+| [ PSYCHOLOGY & BRAIN TELEMETRY ]                                        |
+|                                                                         |
+| Dopamine Level    : [==============================] 100% (Usagi Mode)    |
+| Anxiety / Stress  : [==............................]  08% (Suppressed)   |
+| Resilience Index  : [==============================] 100% (NANTOKA NARE!) |
+| Current State     : Chilling, observing human minds & enjoying life     |
++-------------------------------------------------------------------------+
 ```
 
 ```text
@@ -107,14 +126,16 @@
 
 <div align="center">
 
-  <!-- Trio Running Together Animated Footer -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="80" alt="Hachiware" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="80" alt="Chiikawa" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="80" alt="Usagi" />
+  <!-- Trio Animated Footer -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="75" alt="Hachiware" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="75" alt="Chiikawa" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="75" alt="Usagi" />
 
   <br/><br/>
-  <b>Nantoka Nare! Makasih udah mampir ke profil gua.</b><br/>
-  <i>URRRAAA!! YAHA!! UNAAAA!!</i><br/><br/>
+
+  <b>何とかなれッ! — Nantoka Nare!</b>
+
+  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5B9BD5&height=60&section=footer" width="100%" />
 
