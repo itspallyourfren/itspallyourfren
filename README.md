@@ -14,7 +14,6 @@
 
   <p align="center">
     <i>何とかなれッ! — Nantoka Nare!</i><br/>
-    <b>Hidup dibikin santai aja, jangan kebanyakan overthinking.</b>
   </p>
 
 </div>
@@ -104,20 +103,6 @@
                *. ...... .*# #            
                  .#    **                 
 ```
-
----
-
-### Tentang Gua
-
-```yaml
-faal:
-  username: "@itspallyourfren"
-  kegiatan: "Mahasiswa psikologi"
-  minat: "Perilaku manusia, dengerin musik, ngopi, iseng eksplor tech / bikin hal lucu"
-  karakter_favorit: "Hachiware si kucing biru"
-  motto: "Nantoka nare! Yang penting jalan terus"
-```
-
 ---
 
 <div align="center">
