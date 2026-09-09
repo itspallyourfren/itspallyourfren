@@ -18,7 +18,6 @@
 
   <p align="center">
     <i>何とかなれッ! — Nantoka Nare!</i><br/>
-    <b>Santai aja, hidup jangan kebanyakan overthinking · UNAAAA! 🌸</b>
   </p>
 
   <!-- Running Trio Gang -->
@@ -28,8 +27,6 @@
     <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="70" alt="Chiikawa Run" />
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="70" alt="Usagi Run" />
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
   </p>
 
 </div>
