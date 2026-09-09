@@ -45,7 +45,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_dance.gif" width="95" alt="Usagi Dance" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/trio_cheer.gif" width="95" alt="Trio Cheer" />
   </p>
 
   <br/>
@@ -67,7 +66,7 @@
 
 ---
 
-### 💬 ASCII &amp; Copypasta Corner
+### 💬 ASCII
 
 ```text
        /\_/\                                        (\_/)
@@ -78,13 +77,12 @@
 
                            (\__/)
                            ( •o• )   URRRAAA!! YAHA!! UNAAAA!!
-                          c(   c )   (spontaneous rolling mode)
+                          c(   c ) 
                              w w
                          [ USAGI ]
 ```
 
 <details>
-<summary><b>▼ Klik buat liat Full ASCII Portraits (Hachiware, Chiikawa, Usagi)</b></summary>
 
 ```text
 ============================== [ HACHIWARE ] ==============================
@@ -185,7 +183,6 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="70" alt="Usagi Roll" />
 
   <br/><br/>
 
