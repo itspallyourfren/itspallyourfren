@@ -1,29 +1,58 @@
 <div align="center">
 
   <!-- Header Animated Hachiware & Friends -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_wave.gif" width="125" alt="Hachiware Wave" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="125" alt="Hachiware Jump" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="125" alt="Usagi Roll" />
+  <a href="https://github.com/itspallyourfren">
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_wave.gif" width="115" alt="Hachiware Wave" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="115" alt="Usagi Roll" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="115" alt="Chiikawa Jump" />
+  </a>
 
   <br/><br/>
 
-  <!-- Self-Hosted Native Banner -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="580" alt="itspallyourfren Banner" />
+  <!-- Self-Hosted Animated Banner -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/banner.svg" width="620" alt="@itspallyourfren Banner" />
 
   <br/><br/>
 
   <p align="center">
     <i>何とかなれッ! — Nantoka Nare!</i><br/>
-    <b>Hidup dibikin santai aja, jangan kebanyakan overthinking.</b>
+    <b>Santai aja, hidup jangan kebanyakan overthinking · UNAAAA! 🌸</b>
   </p>
 
-  <!-- Trio Animated Showcase -->
+  <!-- Running Trio Gang -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="70" alt="Hachiware Run" />
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="70" alt="Chiikawa Run" />
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="70" alt="Usagi Run" />
-    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="70" alt="Usagi Jump" />
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_run.gif" width="72" alt="Hachiware Run" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_run.gif" width="72" alt="Chiikawa Run" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_run.gif" width="72" alt="Usagi Run" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="72" alt="Usagi Jump" />
   </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Chiikawa Universe Dialogue Box -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_dialog.svg" width="620" alt="Chiikawa Universe Dialogue" />
+
+  <br/><br/>
+
+  <!-- Retro Lo-Fi Player -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_player.svg" width="620" alt="Hachiware Lo-Fi Player" />
+
+  <br/><br/>
+
+  <!-- Psychology & Mind Telemetry HUD -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/psyche_telemetry.svg" width="620" alt="Psychology Telemetry HUD" />
+
+  <br/><br/>
+
+  <!-- Chiikawa Guild Card & Daily Quests -->
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_quest.svg" width="620" alt="Chiikawa Guild Card" />
 
 </div>
 
@@ -45,16 +74,8 @@
                          [ USAGI ]
 ```
 
-```text
-+-------------------------------------------------------------------------+
-| [ PSYCHOLOGY & BRAIN TELEMETRY ]                                        |
-|                                                                         |
-| Dopamine Level    : [==============================] 100% (Usagi Mode)    |
-| Anxiety / Stress  : [==............................]  08% (Suppressed)   |
-| Resilience Index  : [==============================] 100% (NANTOKA NARE!) |
-| Current State     : Chilling, observing human minds & enjoying life     |
-+-------------------------------------------------------------------------+
-```
+<details>
+<summary><b>▼ Klik buat liat Full ASCII Portraits (Hachiware, Chiikawa, Usagi)</b></summary>
 
 ```text
 ============================== [ HACHIWARE ] ==============================
@@ -124,18 +145,7 @@
                  .#    **                 
 ```
 
----
-
-### Tentang Gua
-
-```yaml
-profil:
-  username: "@itspallyourfren"
-  kegiatan: "Mahasiswa psikologi"
-  minat: "Perilaku manusia, dengerin musik, ngopi, iseng eksplor tech / bikin hal lucu"
-  karakter_favorit: "Hachiware si kucing biru"
-  motto: "Nantoka nare! Yang penting jalan terus"
-```
+</details>
 
 ---
 
@@ -145,11 +155,11 @@ profil:
 
   <p>
     <a href="https://instagram.com/itspallyourfren" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-itspallyourfren-5B9BD5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-itspallyourfren-5B9BD5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ahmadfathialjundy/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -160,9 +170,13 @@ profil:
 <div align="center">
 
   <!-- Trio Animated Footer -->
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="75" alt="Hachiware" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="75" alt="Chiikawa" />
-  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="75" alt="Usagi" />
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/hachiware_jump.gif" width="75" alt="Hachiware Jump" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/chiikawa_jump.gif" width="75" alt="Chiikawa Jump" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_jump.gif" width="75" alt="Usagi Jump" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/itspallyourfren/itspallyourfren/main/assets/usagi_roll.gif" width="75" alt="Usagi Roll" />
 
   <br/><br/>
 

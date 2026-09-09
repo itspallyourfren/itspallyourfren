@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 110" width="620" height="110">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+    <style>
+      .player-text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; }
+      @keyframes eq1 { 0%, 100% { height: 8px; y: 44px; } 50% { height: 26px; y: 26px; } }
+      @keyframes eq2 { 0%, 100% { height: 24px; y: 28px; } 50% { height: 10px; y: 42px; } }
+      @keyframes eq3 { 0%, 100% { height: 14px; y: 38px; } 50% { height: 32px; y: 20px; } }
+      @keyframes eq4 { 0%, 100% { height: 30px; y: 22px; } 50% { height: 12px; y: 40px; } }
+      @keyframes eq5 { 0%, 100% { height: 18px; y: 34px; } 50% { height: 28px; y: 24px; } }
+      .bar-1 { animation: eq1 1.1s infinite ease-in-out; }
+      .bar-2 { animation: eq2 0.9s infinite ease-in-out; }
+      .bar-3 { animation: eq3 1.3s infinite ease-in-out; }
+      .bar-4 { animation: eq4 0.8s infinite ease-in-out; }
+      .bar-5 { animation: eq5 1.0s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <rect width="620" height="110" rx="16" fill="url(#bgGrad)" stroke="#38BDF8" stroke-width="1.5" />
+
+  <!-- Vinyl / CD Icon -->
+  <circle cx="55" cy="55" r="32" fill="#1E293B" stroke="#475569" stroke-width="2" />
+  <circle cx="55" cy="55" r="22" fill="#0F172A" />
+  <circle cx="55" cy="55" r="10" fill="#38BDF8" />
+  <circle cx="55" cy="55" r="4" fill="#0F172A" />
+
+  <!-- Track Details -->
+  <text x="105" y="42" class="player-text" font-size="16" font-weight="700" fill="#F8FAFC">
+    Hitorigottsu (ひとりごつ) · Nantoka Nare Lofi Mix
+  </text>
+  <text x="105" y="65" class="player-text" font-size="13" font-weight="500" fill="#94A3B8">
+    Hachiware (ハチワレ) feat. Usagi High Pitch Shouts
+  </text>
+  <text x="105" y="85" class="player-text" font-size="11" font-weight="600" fill="#38BDF8">
+    ● LIVE ON REPEAT · 02:45 / ∞
+  </text>
+
+  <!-- Animated Sound Equalizer Bars -->
+  <g fill="url(#barGrad)">
+    <rect x="520" y="30" width="5" height="20" rx="2.5" class="bar-1" />
+    <rect x="532" y="25" width="5" height="25" rx="2.5" class="bar-2" />
+    <rect x="544" y="35" width="5" height="15" rx="2.5" class="bar-3" />
+    <rect x="556" y="20" width="5" height="30" rx="2.5" class="bar-4" />
+    <rect x="568" y="28" width="5" height="22" rx="2.5" class="bar-5" />
+    <rect x="580" y="32" width="5" height="18" rx="2.5" class="bar-2" />
+  </g>
+</svg>

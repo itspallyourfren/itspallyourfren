@@ -1,27 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 85" width="640" height="85">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 115" width="640" height="115">
   <defs>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5B9BD5" />
-      <stop offset="50%" stop-color="#89CFF0" />
+    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
       <stop offset="100%" stop-color="#38BDF8" />
     </linearGradient>
     <style>
-      .main-title {
-        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Roboto, sans-serif;
-        font-size: 24px;
-        font-weight: 700;
-        fill: url(#blueGrad);
-        letter-spacing: 0.8px;
+      .banner-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        font-size: 26px;
+        font-weight: 800;
+        fill: url(#titleGrad);
+        letter-spacing: 1.2px;
       }
-      .sub-title {
-        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Text', Roboto, monospace;
+      .banner-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         font-size: 13px;
+        font-weight: 500;
         fill: #94A3B8;
-        letter-spacing: 0.3px;
+        letter-spacing: 0.5px;
       }
+      .banner-tag {
+        font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #38BDF8;
+        letter-spacing: 1px;
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.2; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.2); }
+      }
+      @keyframes borderPulse {
+        0%, 100% { stroke: #38BDF8; }
+        50% { stroke: #818CF8; }
+      }
+      .star-1 { animation: twinkle 2.2s infinite ease-in-out; transform-origin: 45px 30px; }
+      .star-2 { animation: twinkle 3.1s infinite ease-in-out 0.7s; transform-origin: 595px 35px; }
+      .star-3 { animation: twinkle 2.6s infinite ease-in-out 1.3s; transform-origin: 575px 85px; }
+      .star-4 { animation: twinkle 2.8s infinite ease-in-out 0.4s; transform-origin: 65px 85px; }
+      .card-border { animation: borderPulse 4s infinite ease-in-out; }
     </style>
   </defs>
-  <rect width="640" height="85" rx="14" fill="#0D1117" stroke="#2B6CB0" stroke-width="1.5" />
-  <text x="320" y="38" text-anchor="middle" class="main-title">@itspallyourfren</text>
-  <text x="320" y="64" text-anchor="middle" class="sub-title">Psychology · Hachiware Blue · 何とかなれッ!</text>
+
+  <!-- Background Card -->
+  <rect width="640" height="115" rx="18" fill="url(#bannerBg)" class="card-border" stroke="#38BDF8" stroke-width="1.8" />
+
+  <!-- Twinkling Sparkles -->
+  <g fill="#FDE047">
+    <!-- Star 1 -->
+    <path class="star-1" d="M45 22 L47 28 L53 30 L47 32 L45 38 L43 32 L37 30 L43 28 Z" />
+    <!-- Star 2 -->
+    <path class="star-2" d="M595 27 L597 33 L603 35 L597 37 L595 43 L593 37 L587 35 L593 33 Z" />
+    <!-- Star 3 -->
+    <path class="star-3" d="M575 79 L576.5 83.5 L581 85 L576.5 86.5 L575 91 L573.5 86.5 L569 85 L573.5 83.5 Z" />
+    <!-- Star 4 -->
+    <path class="star-4" d="M65 79 L66.5 83.5 L71 85 L66.5 86.5 L65 91 L63.5 86.5 L59 85 L63.5 83.5 Z" />
+  </g>
+
+  <!-- Content -->
+  <text x="320" y="34" text-anchor="middle" class="banner-tag">✦ &lt; HACHIWARE BLUE UNIVERSE &gt; ✦</text>
+  <text x="320" y="68" text-anchor="middle" class="banner-title">@itspallyourfren</text>
+  <text x="320" y="95" text-anchor="middle" class="banner-sub">Psychology Student · Human Mind &amp; Behavior · 何とかなれッ!</text>
 </svg>
